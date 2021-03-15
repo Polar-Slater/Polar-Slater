@@ -11,8 +11,4 @@ Research field: magnesium alloy, corrosion protection, fuel cell (current resear
 Equipment: 
 - Microsoft Surface Pro (2017), Dell XPS15 9560, <br/>
 - Raspberry Pi 4B 4GB, <br/>
-- Arduino MKR1000, Arduino Nano IoT, <br/>
-- Iphone 8 64GB, Google Pixel 3 64GB, <br/>
-- GoPro Hero 6
-- Wacom Intuos M
-- JBL Filp 5, JBL Clip 3
+- Google Pixel 3 64GB, <br/>
