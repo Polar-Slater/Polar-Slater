@@ -5,7 +5,7 @@ All the code created here is to make my research work convenient. <br/>
 Or for my own interest. <br/>
 I don't have a specific coding language preference, and I just use whatever is necessary.
 
-Currently, I'm finishing my Master's thesis and applying to PhD position.<br/>
+I just finish my master degree and looking for jobs (or PhD position).<br/>
 Research field: magnesium alloy, corrosion protection, fuel cell (current research work), etc. 
 
 Equipment: 
